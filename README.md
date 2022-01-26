@@ -12,7 +12,13 @@ $ pip install pycounts_tat
 
 ## Usage
 
-- TODO
+To import the package and check the version:
+
+```
+import pycounts_tat
+
+print(pycounts_tat.__version__)
+```
 
 ## Contributing
 
