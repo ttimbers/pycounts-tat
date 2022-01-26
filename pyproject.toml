@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pycounts_tat"
-version = "0.1.1"
+version = "0.1.2"
 description = "Calculate word counts in a text file!"
 authors = ["Monty Python"]
 license = "MIT"
