@@ -57,7 +57,7 @@ Ready to contribute? Here's how to set up `pycounts-tat` for local development.
 
 4. When you're done making changes, check that your changes conform to any code formatting requirements and pass any tests.
 
-5. Commit your changes and open a pull request.
+5. Commit your changes and open a pull request. Note - we do not accept direct pushes to the main branch. All fixes and features must be handled though a pull request and code-review workflow.
 
 ## Pull Request Guidelines
 
