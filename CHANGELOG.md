@@ -4,4 +4,4 @@
 
 ## v0.1.0 (26/01/2022)
 
-- First release of `pycounts-tat`!
+- First release of `pycounts_tat`!

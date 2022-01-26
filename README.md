@@ -1,11 +1,11 @@
-# pycounts-tat
+# pycounts_tat
 
 Calculate word counts in a text file!
 
 ## Installation
 
 ```bash
-$ pip install pycounts-tat
+$ pip install pycounts_tat
 ```
 
 ## Usage
@@ -18,8 +18,8 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`pycounts-tat` was created by Monty Python. It is licensed under the terms of the MIT license.
+`pycounts_tat` was created by Monty Python. It is licensed under the terms of the MIT license.
 
 ## Credits
 
-`pycounts-tat` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
+`pycounts_tat` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).

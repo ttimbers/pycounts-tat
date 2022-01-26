@@ -1,4 +1,4 @@
-from pycounts-tat import pycounts-tat
+from pycounts_tat.pycounts_tat import count_words
 from collections import Counter
 
 
