@@ -1,5 +1,7 @@
 # pycounts_tat
 
+[![ci-cd](https://github.com/ttimbers/pycounts_tat/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/ttimbers/pycounts_tat/actions/workflows/ci-cd.yml)
+
 Calculate word counts in a text file!
 
 ## Installation
