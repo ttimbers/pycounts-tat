@@ -1,6 +1,6 @@
 # pycounts_tat
 
-Author: Tiffany Timbers
+Author: Tiffany A. Timbers
 
 [![ci-cd](https://github.com/ttimbers/pycounts_tat/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/ttimbers/pycounts_tat/actions/workflows/ci-cd.yml)
 
