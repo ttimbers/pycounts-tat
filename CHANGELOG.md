@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.5 (2022-01-27)
+### Fix
+* **doc:** Clarified workflow expectations for contributions ([`498c537`](https://github.com/ttimbers/pycounts_tat/commit/498c53764e5394a125394a3ab4dc12619f4e9dfd))
+
 ## v0.1.4 (2022-01-26)
 
 
