@@ -82,6 +82,7 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.ACCESS_TOKEN }}
+        force: true
     
     - name: Enable admin branch protection
       uses: benjefferies/branch-protection-bot@master
