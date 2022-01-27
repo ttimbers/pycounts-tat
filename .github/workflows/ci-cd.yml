@@ -54,6 +54,12 @@ jobs:
       with:
         fetch-depth: 0
     
+    - name: Install poetry
+      uses: snok/install-poetry@v1
+
+    - name: Install package
+      run: poetry install
+    
     - name: Disable admin branch protection
       uses: benjefferies/branch-protection-bot@master
       if: always()
@@ -63,11 +69,13 @@ jobs:
           enforce_admins: false
     
     - name: Python Semantic Release
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
           pip install python-semantic-release
           git config user.name github-actions
           git config user.email github-actions@github.com
-          semantic-release publish
+          poetry run semantic-release publish
           
     - name: Enable admin branch protection
       uses: benjefferies/branch-protection-bot@master
